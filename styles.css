@@ -1,0 +1,96 @@
+* {
+  font-family: "Dongle", sans-serif;
+  font-family: "DynaPuff", cursive;
+}
+header {
+  text-align: center;
+  font-size: 50px;
+}
+.rollDice button {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block;
+  margin: 0 auto;
+  background-color: purple;
+  color: white;
+  margin-bottom: 0px;
+  border: 0px solid black;
+  border-radius: 5%;
+  font-size: 24px;
+}
+
+button {
+  cursor: pointer;
+  margin: 4px;
+}
+div {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.newGame button {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block;
+  margin: 0 auto;
+  background-color: purple;
+  color: white;
+  margin-bottom: 20px;
+  border: 0px solid black;
+  border-radius: 5%;
+  font-size: 24px;
+}
+
+.confetti {
+  max-width: 640px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  user-select: none;
+}
+.main {
+  border: 0px solid black;
+  height: 450px;
+  width: 510px;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-left: 30%;
+  background-color: #ddd;
+  border-radius: 2%;
+  position: absolute;
+}
+.buttons {
+  padding: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.buttons button {
+  margin: 10px;
+  padding: 10px;
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  margin-bottom: 40px;
+  font-size: 24px;
+  border-radius: 10%;
+}
+body {
+  background: radial-gradient(circle at top right, #ff8a00, #e52e71, red);
+}
+p {
+  text-align: center;
+}
+
+.confetti {
+  max-width: 640px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  user-select: none;
+}
